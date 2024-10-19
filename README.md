@@ -1,4 +1,4 @@
-# Image Comparison Slider
+# Image Background Effect
 
 A simple and responsive image comparison slider that allows users to visually compare two images by sliding between them. This project uses HTML, CSS, and JavaScript for interactive functionality.
 
