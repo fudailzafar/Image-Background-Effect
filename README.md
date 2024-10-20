@@ -32,19 +32,3 @@ Image Comparison Slider/
    ```
 
 3. Open the `index.html` file in your browser to view and interact with the slider.
-
-## Project Overview
-
-- **HTML (index.html)**: Sets up the structure of the image comparison container with two images and a draggable slider.
-- **CSS (style.css)**: Styles the layout, slider, and container, ensuring that the images and slider are responsive and visually appealing.
-- **JavaScript (script.js)**: Provides the functionality for the slider, allowing users to move the slider and adjust the width of the displayed images interactively.
-
-## Technologies Used
-
-- **HTML5**: For structuring the webpage and embedding the images.
-- **CSS3**: For styling the slider, images, and responsive layout.
-- **JavaScript**: For adding interactivity to the image slider.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
