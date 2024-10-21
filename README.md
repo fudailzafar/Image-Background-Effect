@@ -1,10 +1,10 @@
 # Image Background Effect
 
-A simple and responsive image comparison slider that allows users to visually compare two images by sliding between them. This project uses HTML, CSS, and JavaScript for interactive functionality.
+A simple and responsive image background effect slider that allows users to visually remove background by sliding between them. This project uses HTML, CSS, and JavaScript for interactive functionality.
 
 ## Features
 
-- Allows the user to slide between two images for comparison.
+- Allows the user to slide between two images for background change.
 - Responsive design that adjusts to different screen sizes.
 - Smooth image transition with a draggable slider.
 
